@@ -1,0 +1,14 @@
+D:\Language\ArrayInterface\bin\Debug\net9.0\ArrayInterface.exe
+D:\Language\ArrayInterface\bin\Debug\net9.0\ArrayInterface.deps.json
+D:\Language\ArrayInterface\bin\Debug\net9.0\ArrayInterface.runtimeconfig.json
+D:\Language\ArrayInterface\bin\Debug\net9.0\ArrayInterface.dll
+D:\Language\ArrayInterface\bin\Debug\net9.0\ArrayInterface.pdb
+D:\Language\ArrayInterface\obj\Debug\net9.0\ArrayInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Language\ArrayInterface\obj\Debug\net9.0\ArrayInterface.AssemblyInfoInputs.cache
+D:\Language\ArrayInterface\obj\Debug\net9.0\ArrayInterface.AssemblyInfo.cs
+D:\Language\ArrayInterface\obj\Debug\net9.0\ArrayInterface.csproj.CoreCompileInputs.cache
+D:\Language\ArrayInterface\obj\Debug\net9.0\ArrayInterface.dll
+D:\Language\ArrayInterface\obj\Debug\net9.0\refint\ArrayInterface.dll
+D:\Language\ArrayInterface\obj\Debug\net9.0\ArrayInterface.pdb
+D:\Language\ArrayInterface\obj\Debug\net9.0\ArrayInterface.genruntimeconfig.cache
+D:\Language\ArrayInterface\obj\Debug\net9.0\ref\ArrayInterface.dll

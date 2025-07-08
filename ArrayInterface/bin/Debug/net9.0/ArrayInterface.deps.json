@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ArrayInterface/1.0.0": {
+        "runtime": {
+          "ArrayInterface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArrayInterface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
