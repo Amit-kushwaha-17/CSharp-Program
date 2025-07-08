@@ -1,0 +1,14 @@
+D:\Language\InheritanceSystem\bin\Debug\net9.0\InheritanceSystem.exe
+D:\Language\InheritanceSystem\bin\Debug\net9.0\InheritanceSystem.deps.json
+D:\Language\InheritanceSystem\bin\Debug\net9.0\InheritanceSystem.runtimeconfig.json
+D:\Language\InheritanceSystem\bin\Debug\net9.0\InheritanceSystem.dll
+D:\Language\InheritanceSystem\bin\Debug\net9.0\InheritanceSystem.pdb
+D:\Language\InheritanceSystem\obj\Debug\net9.0\InheritanceSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Language\InheritanceSystem\obj\Debug\net9.0\InheritanceSystem.AssemblyInfoInputs.cache
+D:\Language\InheritanceSystem\obj\Debug\net9.0\InheritanceSystem.AssemblyInfo.cs
+D:\Language\InheritanceSystem\obj\Debug\net9.0\InheritanceSystem.csproj.CoreCompileInputs.cache
+D:\Language\InheritanceSystem\obj\Debug\net9.0\InheritanceSystem.dll
+D:\Language\InheritanceSystem\obj\Debug\net9.0\refint\InheritanceSystem.dll
+D:\Language\InheritanceSystem\obj\Debug\net9.0\InheritanceSystem.pdb
+D:\Language\InheritanceSystem\obj\Debug\net9.0\InheritanceSystem.genruntimeconfig.cache
+D:\Language\InheritanceSystem\obj\Debug\net9.0\ref\InheritanceSystem.dll
