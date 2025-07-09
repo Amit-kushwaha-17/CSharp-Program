@@ -1,0 +1,15 @@
+D:\Language\SaveLoadData\bin\Debug\net9.0\SaveLoadData.exe
+D:\Language\SaveLoadData\bin\Debug\net9.0\SaveLoadData.deps.json
+D:\Language\SaveLoadData\bin\Debug\net9.0\SaveLoadData.runtimeconfig.json
+D:\Language\SaveLoadData\bin\Debug\net9.0\SaveLoadData.dll
+D:\Language\SaveLoadData\bin\Debug\net9.0\SaveLoadData.pdb
+D:\Language\SaveLoadData\obj\Debug\net9.0\SaveLoadData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Language\SaveLoadData\obj\Debug\net9.0\SaveLoadData.AssemblyInfoInputs.cache
+D:\Language\SaveLoadData\obj\Debug\net9.0\SaveLoadData.AssemblyInfo.cs
+D:\Language\SaveLoadData\obj\Debug\net9.0\SaveLoadData.csproj.CoreCompileInputs.cache
+D:\Language\SaveLoadData\obj\Debug\net9.0\SaveLoadData.sourcelink.json
+D:\Language\SaveLoadData\obj\Debug\net9.0\SaveLoadData.dll
+D:\Language\SaveLoadData\obj\Debug\net9.0\refint\SaveLoadData.dll
+D:\Language\SaveLoadData\obj\Debug\net9.0\SaveLoadData.pdb
+D:\Language\SaveLoadData\obj\Debug\net9.0\SaveLoadData.genruntimeconfig.cache
+D:\Language\SaveLoadData\obj\Debug\net9.0\ref\SaveLoadData.dll
